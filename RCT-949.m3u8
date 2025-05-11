@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,LANGUAGE="en",URI="https://www.subtitlecat.com/subs/237/RCT-949-en.srt"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://v.imgstream2.com/b/bwlmblypoj/bwlmblypoj.m3u8
